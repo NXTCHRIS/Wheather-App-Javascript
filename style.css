@@ -110,3 +110,8 @@ table {
     width: 50%;
     justify-content: space-evenly;
 }
+.error-text {
+    color: red;
+    font-size: 0.7rem;
+    display: none;
+}
