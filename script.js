@@ -2,7 +2,7 @@
 addEventListener("DOMContentLoaded", function(){
 
     // setting up API Key and targeting DOM elements
-    const apiKey = "ae55ac2c89cff7621cb848a61b1e6e66";
+    const apiKey = "API KEY HERE";
     const mainBtn = document.querySelector(".main-btn");
     const inputBox = document.getElementById("input-box")
     const error = document.querySelector(".error-text")
